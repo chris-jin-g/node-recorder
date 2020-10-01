@@ -185,8 +185,3 @@ module.exports = {
 };
 ```
 
-## MIT License
-
-## Author
-
-- Eric Clemmons
